@@ -1,0 +1,17 @@
+#animation {
+    width: 0ch;
+    overflow: hidden;
+    white-space: nowrap;
+    animation: text 5s steps(23) infinite alternate;
+    border-right: 4px solid red;
+}
+
+@keyframes text {
+    0% {
+        width: 0ch;
+    }
+
+    50% {
+        width: 23ch;
+    }
+}

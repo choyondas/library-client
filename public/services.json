@@ -1,0 +1,56 @@
+[
+    {
+        "name": "COMPUTER SCIENCE",
+        "image": "https://miuc.org/wp-content/uploads/2017/01/Study-Computer-Science.jpg",
+        "teachers": "20+",
+        "school": "information school",
+        "durations": "4 years",
+        "rating": "5",
+        "cost": "6000"
+    },
+    {
+        "name": "EEE",
+        "image": "http://media.myklassroom.com/mkm_webroot/branch_images/3.jpg",
+        "teachers": "15+",
+        "school": "information school",
+        "durations": "4 years",
+        "rating": "4",
+        "cost": "7000"
+    },
+    {
+        "name": "ECE",
+        "image": "https://www.itsengg.edu.in/ee1-1.PNG",
+        "teachers": "18+",
+        "school": "information school",
+        "durations": "4 years",
+        "rating": "5",
+        "cost": "8000"
+    },
+    {
+        "name": "Mechanical Eng.",
+        "image": "https://diitctg.edu.bd/wp-content/uploads/2019/06/mechanical.jpg",
+        "teachers": "20+",
+        "school": "school of Tecnical",
+        "durations": "4 years",
+        "rating": "5",
+        "cost": "8000"
+    },
+    {
+        "name": "AI and DataScience ",
+        "image": "https://www.extremetech.com/wp-content/uploads/2020/11/AI-artificial-intelligence-2-640x360.jpg",
+        "teachers": "14+",
+        "school": "school of information",
+        "durations": "4 years",
+        "rating": "4",
+        "cost": "10000"
+    },
+    {
+        "name": "Bussiness A-(BBA) ",
+        "image": "https://dz8fbjd9gwp2s.cloudfront.net/courses/6139adf50cf2878dbe100d58/6139adf50cf2878dbe100d58_scaled_cover.jpg?v=2",
+        "teachers": "14+",
+        "school": "Bussinness school",
+        "durations": "4 years",
+        "rating": "5",
+        "cost": "6000"
+    }
+]
